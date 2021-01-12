@@ -1,0 +1,23 @@
+﻿  rc_gameStateManager.cpp
+  rc_console.cpp
+  main.cpp
+  rc_gameplayState.cpp
+  rc_gameState.cpp
+  rc_imageloader.cpp
+  rc_inputManager.cpp
+  rc_level.cpp
+  rc_pcxLoader.cpp
+  rc_player.cpp
+  rc_ppmLoader.cpp
+  rc_splashState.cpp
+  rc_texture.cpp
+  rc_textureManager.cpp
+  rc_renderer.cpp
+  rc_timers.cpp
+  stdafx.cpp
+  Generating code
+  0 of 502 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RaycasterFramework.vcxproj -> C:\Users\Student\Documents\Github Repos\ct4028-assignment-BUISCUI7MUNCHER\RaycasterFramework\x64\Release\RaycasterFramework.exe
