@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9512f0b31ce880c438261e3939362e76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpawnPoint_1: {instanceID: 0}
+  - SpawnPoint_2: {instanceID: 0}
+  - SpawnPoint_3: {instanceID: 0}
+  - SpawnPoint_4: {instanceID: 0}
+  - SpawnPoint_5: {instanceID: 0}
+  - SpawnPoint_6: {instanceID: 0}
+  - SpawnPoint_7: {instanceID: 0}
+  - SpawnPoint_8: {instanceID: 0}
+  - SpawnPoint_9: {instanceID: 0}
+  - Ball: {fileID: 1797481106161627326, guid: 78591caaf31e55345b2dad2a29b94fc3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
