@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a1cddd3635008e48b33fa1ee5292cee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grenadePrfb: {fileID: 8448592278622149387, guid: 9b22b25cb62682f449923f863364084f,
+      type: 3}
+  - Explosion: {fileID: 3204801458109220358, guid: 527959aba0533b8459a7d72c6ce65446,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

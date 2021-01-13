@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":927.1629638671875,"y":562.72900390625,"z":-124.87071990966797},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":2115.965576171875,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":19.68789291381836,"y":-1.1789616346359254,"z":-19.08203125},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":23.782285690307618,"orthographic":true}
+>>>>>>> parent of 052e12f... Tried setting up weapon stuff, ran into a few bugs, but fixed the bugs but not a lot of other progress made
